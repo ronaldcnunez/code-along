@@ -1,4 +1,4 @@
-Imgainary Real Estate Website
+Imaginary Real Estate Website
 --
 
 #Description
